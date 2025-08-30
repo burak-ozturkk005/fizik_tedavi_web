@@ -44,7 +44,13 @@ body {
     font-weight: 600;
     margin: 0;
    }
-
+.bilgi p {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.bilgi img {
+  max-width: 500px;
+}
 @media (max-width: 540px) {
   .ustmenu nav { gap: 12px; }
   .btn, .ustmenu nav a { padding: 10px 14px; }
